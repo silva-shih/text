@@ -1,1 +1,1 @@
-*[jieba](https://github.com/fxsjy/jieba)
+[jieba](https://github.com/fxsjy/jieba)
